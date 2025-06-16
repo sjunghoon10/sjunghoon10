@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi there! My name is Shin Jung Hoon.
 
 ## Backend & 3D Interactive Application Developer
 
